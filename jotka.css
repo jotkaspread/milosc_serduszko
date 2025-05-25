@@ -1,0 +1,18 @@
+h1 {
+    font-size: 2em;
+    text-align: center;
+    color: #7d8ddc;
+}
+
+p {
+    font-size: 1.2em;
+    text-align: center;
+    color: #7d8ddc;
+}
+
+body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
